@@ -1,7 +1,7 @@
 <h1 align="center">Hallo! I'm Manasa Parampalli</h1>
 <h3 align="center">I’m a Master’s student in Autonomy Technologies at FAU Erlangen–Nürnberg, Germany, specializing in Sensing & Perception and Human-System Interfaces.</h3>
 
-- 🌱 I’m currently learning about **Automotive Radars, Computer Vision algorithms, AI driven control method and of course German!**
+- 🌱 I’m currently learning about **Perception in Robotics, Automotive Radars, Computer Vision algorithms, AI driven control methods and of course German!**
 
 - 💬 I am passionate about **ADAS and motorsports.**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/manasa-parampalli-820952145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manasa-parampalli-820952145" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manasa-parampalli-820952145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manasa-parampalli-820952145" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
