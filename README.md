@@ -6,6 +6,8 @@
 - 💬 I am passionate about **ADAS and motorsports.**
 
 - 📫 How to reach me **manasaparampalli@gmail.com**
+  
+- 📄 I have previously worked at **Deloitte US-India** as AEM-Java Developer for 3.5 years and have experience in Java, Git and Agile methodologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
